@@ -2,7 +2,7 @@
 
 ## Components
 - main.py - Reading PDF and Performed semantic chunking
-- embed_and_store.py - Embedding and Storing in Quadrant DB
+- embed_and_store.py - Embedding and Storing in Qdrant DB
 - user_query.py - Embedding User Query and Generation SQL
 
 ### Code Run
